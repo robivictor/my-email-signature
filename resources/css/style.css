@@ -1,0 +1,26 @@
+ i.fas,
+  i.fab {
+    color: #073763;
+  }
+.social{
+  font-size: 25px;
+}
+.photo {
+  float: left;
+  height: 90px;
+  width: 90px;
+  border-radius: 90px;
+  border: 3px solid #073763;
+
+}
+
+.container{
+  font-family: 'Roboto', sans-serif;
+  font-weight:bold;
+  color:#073763; 
+  padding-bottom: 3px ;
+  border: 1px solid #ccc;
+  padding: 5px;
+  border-radius: 12px;
+  width: 500px;
+}
