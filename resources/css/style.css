@@ -1,10 +1,4 @@
- i.fas,
-  i.fab {
-    color: #073763;
-  }
-.social{
-  font-size: 25px;
-}
+
 .photo {
   float: left;
   height: 90px;
@@ -16,11 +10,24 @@
 
 .container{
   font-family: 'Roboto', sans-serif;
-  font-weight:bold;
+  font-size: 14px ;
   color:#073763; 
-  padding-bottom: 3px ;
-  border: 1px solid #ccc;
-  padding: 5px;
-  border-radius: 12px;
-  width: 500px;
+}
+
+.contact{
+  display: block;
+  margin: 4px 0px 4px 0;
+}
+
+.name{
+  display: block;
+  font-size: 16px;
+  margin: 4px 0px -2px 0;
+  font-weight: bold;
+}
+
+.social{
+  display: block;
+  margin:  4px 0px 4px 0;
+  padding-left: 0px;
 }
